@@ -1,0 +1,16 @@
+1. source.txt created and written
+2. Line appended to source.txt
+3. read() whole file:
+Hello, this is the first line.
+Python file handling is easy.
+This line was appended.
+
+   readline(): Hello, this is the first line.
+   readlines(): ['Hello, this is the first line.\n', 'Python file handling is easy.\n', 'This line was appended.\n']
+4. Content copied to destination.txt
+5. destination.txt contains:
+Hello, this is the first line.
+Python file handling is easy.
+This line was appended.
+
+   File closed automatically by 'with': True

@@ -1,0 +1,15 @@
+=== LAMBDA ===
+square(5)        : 25
+add(3, 4)        : 7
+is_even(10)      : True
+map (cube)       : [1, 8, 27, 64, 125, 216, 343, 512, 729, 1000]
+filter (even)    : [2, 4, 6, 8, 10]
+sorted by length : ['fig', 'kiwi', 'apple', 'banana']
+
+=== LIST COMPREHENSION ===
+squares          : [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+even numbers     : [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
+upper-case words : ['BANANA', 'KIWI', 'APPLE', 'FIG']
+odd/even labels  : ['odd', 'even', 'odd', 'even', 'odd']
+pairs (nested)   : [(1, 1), (1, 2), (2, 1), (2, 2), (3, 1), (3, 2)]
+flatten matrix   : [1, 2, 3, 4, 5, 6, 7, 8, 9]
